@@ -1,0 +1,23 @@
+{
+    "postgresql": {
+        "host": "localhost",
+        "user": "openpg",
+        "password": "openpgpwd",
+        "database": "BD_CAMEROUN",
+        "port": 5432
+    },
+    "myftp": {
+        "host": "212.227.192.101",
+        "user": "sunu",
+        "password": "sYn%qN3P_+dCz9",
+        "port": 21
+    },
+    "requetes":{
+        "vehicule":"None",
+        "attestation":"None",
+        "client":"None"
+    }
+}
+
+
+
